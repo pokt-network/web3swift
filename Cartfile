@@ -1,0 +1,7 @@
+github "attaswift/BigInt"
+github "krzyzanowskim/CryptoSwift"
+github "mxcl/PromiseKit"
+github "shamatar/SwiftRLP"
+github "shamatar/EthereumAddress"
+github "shamatar/EthereumABI"
+github "daltoniam/Starscream"
