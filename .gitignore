@@ -66,5 +66,5 @@ fastlane/Preview.html
 fastlane/screenshots
 fastlane/test_output
 API_keys.plist
-web3swiftTests/key.json
-web3swiftTests/Resources/key.json
+
+.DS_Store
